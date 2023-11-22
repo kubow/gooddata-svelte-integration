@@ -1,0 +1,1 @@
+# gooddata-svelte-integration
